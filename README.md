@@ -14,7 +14,7 @@ A React application that fetches and displays repositories from Google’s GitHu
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) (Latest LTS version recommended)
+[Node.js](https://nodejs.org/) (Latest LTS version recommended)
 
 ### Installation
 
