@@ -22,6 +22,11 @@ A React application that fetches and displays repositories from Google’s GitHu
 npm install
 ```
 
+### Run
+```bash
+npm run dev
+```
+
 ## Structure
 
 - **App.tsx** – Root component of the application. Currently loads the main page and could handle routing in the future.
