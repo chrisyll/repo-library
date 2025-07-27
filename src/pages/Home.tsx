@@ -97,7 +97,7 @@ const Home = () => {
     <div className="p-8 flex flex-col gap-6">
       <PopularRepositoriesSection
         repositories={popularRepositories}
-        showAll
+        showAll={showAll}
         onToggle={() => setShowAll(!showAll)}
       />
       <SearchBar />
